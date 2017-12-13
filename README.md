@@ -1,8 +1,10 @@
 # Delphi Windows and Android Helpers
+Note: Use these units and packages in Delphi 10.2 Tokyo and later.
 
 Delphi Helper: 
   Some helper units contain a lot of codes.
-  Note: First, install packages, then start using samples below:
+  Note 1: You don't need to install packages. Just compile once (For trust) and add directory to Type Library in Delphi, then start
+  using samples below
 
 Android Statusbar: 
   Sample for changing Status Bar Color in Android from Delphi.
