@@ -48,5 +48,10 @@ Android Control Images:
 
 
 
+Special thanks to: 
+Stack Overflow (stackoverflow.com)
+WINSOFT (www.winsoft.sk)
+FMX EXPRESS (www.fmxexpress.com)
+Embarcadero
 
 Programmer: Hadi Farid
